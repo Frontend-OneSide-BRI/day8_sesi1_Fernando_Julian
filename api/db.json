@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "email": "jane@gmail.com"
+    },
+    {
+      "name": "Nando",
+      "email": "nando@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Nando2",
+      "email": "nand2o@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Nando2",
+      "email": "nand2o@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Nando2",
+      "email": "nand2o@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "dasdasddasd",
+      "email": "nandokun69@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "dasdasddasd",
+      "email": "nandokun69@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "nando",
+      "email": "storehype27@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "Fernando",
+      "email": "jumpoooon@gmail.com",
+      "id": 11
+    },
+    {
+      "email": "nandokun69@gmail.com",
+      "id": 12
+    }
+  ]
+}
